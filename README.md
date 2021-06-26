@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hexicorn
 - 👀 I’m interested in git and python
 - 🌱 I’m currently learning git and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing until I find my feet
 - 📫 How to reach me ...
 
 <!---
